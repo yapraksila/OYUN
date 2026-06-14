@@ -1,21 +1,23 @@
-# Build ve Çalıştırma Talimatları
+# Build and Run Instructions
 
-## Gereksinimler
+## Requirements
 
-* Güncel bir web tarayıcısı (Google Chrome, Microsoft Edge veya Firefox)
+* A modern web browser (Google Chrome, Microsoft Edge, or Mozilla Firefox)
 
-## Kurulum
+## Installation
 
-1. Proje dosyalarını bilgisayarınıza indirin veya GitHub reposunu klonlayın.
+1. Download the project files to your computer or clone the GitHub repository.
 
+```bash
 git clone https://github.com/yapraksila/OYUN.git
+```
 
-2. src klasörünü açın.
+2. Open the `src` folder.
 
-3. index.html dosyasını tarayıcıda açın.
+3. Open the `index.html` file in your web browser.
 
-## Notlar
+## Notes
 
-* Ek bir derleme işlemi gerekmemektedir.
-* Tüm dosya yolları relatif olarak tanımlanmıştır.
-* İnternet bağlantısı yalnızca CDN üzerinden yüklenen kütüphaneler için gerekebilir.
+* No additional build process is required.
+* All file paths are defined using relative paths.
+* An internet connection may be required only for libraries loaded through a CDN.
